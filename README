@@ -1,0 +1,10 @@
+How I satisfy the requirements
+
+- 5 Screens: login page, main page, test page, table view, achievement page
+- 2 Types of Transition: modal and push
+- 1 Tabel view: show if the answer is wrong
+- 5 UI elements: UILabel, UIButton, UIImageView, UIAlert, UITextField
+- Story board for 5 elements and 4 screens
+- 1 Gesture: Pinch
+- NSUserDefaults: store the username and password, current user
+- Run on simulator
