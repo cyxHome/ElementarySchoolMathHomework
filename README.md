@@ -1,4 +1,10 @@
-How I satisfy the requirements
+# Elementary School Math Practicing System
+
+## What is it? 
+A native iOS application allows children to signed up and logged in to answer random generated math question. After submitted, it would give feedback for the answers. 
+
+
+## Features
 
 - 5 Screens: login page, main page, test page, table view, achievement page
 - 2 Types of Transition: modal and push
